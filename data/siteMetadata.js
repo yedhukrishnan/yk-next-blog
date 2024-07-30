@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Yedhu Krishnan',
   author: 'Yedhu Krishnan',
   headerTitle: 'Yedhu Krishnan',
-  description: 'Developer + Reader + Blogger',
+  description: 'My platform to learn, experiment, and share my thoughts on technology, programming, and life.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://yedhu.co.in',
