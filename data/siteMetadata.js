@@ -1,16 +1,16 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Data Flow',
+  title: 'YedhuKrishnan',
   author: 'Yedhu Krishnan',
   headerTitle: 'DataFlow',
   description: 'Developer + Reader + Blogger',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://yedhu.me',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  siteLogo: '/static/images/logo.png',
+  socialBanner: '',
+  mastodon: '',
   email: 'yedhu@outlook.in',
   github: 'https://github.com/yedhukrishnan',
   x: 'https://x.com/yedhukrishnan',
