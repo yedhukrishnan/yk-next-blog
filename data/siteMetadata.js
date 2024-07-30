@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'YedhuKrishnan',
+  title: 'Yedhu Krishnan',
   author: 'Yedhu Krishnan',
-  headerTitle: 'DataFlow',
+  headerTitle: 'Yedhu Krishnan',
   description: 'Developer + Reader + Blogger',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://yedhu.me',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://yedhu.co.in',
+  siteRepo: '',
   siteLogo: '/static/images/logo.png',
   socialBanner: '',
   mastodon: '',
